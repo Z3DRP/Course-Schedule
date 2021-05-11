@@ -1,0 +1,10 @@
+C:\Users\Apex1\source\C#\CourseSchedule\CourseSchedule\bin\Debug\CourseSchedule.exe.config
+C:\Users\Apex1\source\C#\CourseSchedule\CourseSchedule\bin\Debug\CourseSchedule.exe
+C:\Users\Apex1\source\C#\CourseSchedule\CourseSchedule\bin\Debug\CourseSchedule.pdb
+C:\Users\Apex1\source\C#\CourseSchedule\CourseSchedule\obj\Debug\CourseSchedule.csprojAssemblyReference.cache
+C:\Users\Apex1\source\C#\CourseSchedule\CourseSchedule\obj\Debug\CourseSchedule.Form1.resources
+C:\Users\Apex1\source\C#\CourseSchedule\CourseSchedule\obj\Debug\CourseSchedule.Properties.Resources.resources
+C:\Users\Apex1\source\C#\CourseSchedule\CourseSchedule\obj\Debug\CourseSchedule.csproj.GenerateResource.cache
+C:\Users\Apex1\source\C#\CourseSchedule\CourseSchedule\obj\Debug\CourseSchedule.csproj.CoreCompileInputs.cache
+C:\Users\Apex1\source\C#\CourseSchedule\CourseSchedule\obj\Debug\CourseSchedule.exe
+C:\Users\Apex1\source\C#\CourseSchedule\CourseSchedule\obj\Debug\CourseSchedule.pdb
